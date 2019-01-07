@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+DriverFiles/.DS_Store
+DriverFiles/iOS_app/
+src/.DS_Store
+src/test/.DS_Store
+src/test/java/.DS_Store
+src/test/java/com/.DS_Store
+target/
